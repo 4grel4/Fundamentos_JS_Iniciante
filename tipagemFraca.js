@@ -11,4 +11,4 @@ let valor = ''
 let numero = 1 
 let pqp = false // Produto Quimico Perigoso...kkk
 
-Agrela !!
+
